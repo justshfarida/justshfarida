@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @justshfarida  
+### 👋 Hi, I’m @justshfarida  -Farida Shakikhanli
 - 👀 I’m interested in **Software Development, Web Development.**  
 - 🌱 I’m currently learning **AI and improving my skills in C#, .NET Core, ASP.NET Core, JavaScript, Node.js, and Express.js**  
 - 💼 I’m **actively seeking an internship** in **Software Development / Full-Stack Web Development**  
