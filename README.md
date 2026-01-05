@@ -1,8 +1,8 @@
-### 👋 Hi, I’m @justshfarida  - Farida Shakikhanli
-- 👀 I’m interested in **Software Development**  
-- 🌱 I’m currently learning **AI and improving my skills in C#, .NET Core, ASP.NET Core, JavaScript, Node.js, and Express.js**  
-- 💼 I’m **actively seeking an internship** in **Software Development / Full-Stack Web Development**  
-- 🚀 I’m open to **collaborating with startups** on innovative projects, especially in **Mobile and web technologies**  
-- 💞️ I’m looking to contribute to **open-source projects, and startup initiatives**  
-- 📫 How to reach me: **[shakikhanlifarida@gmail.com](mailto:shakikhanlifarida@gmail.com)**  
-- 😄 Pronouns: **She/Her**  
+### 👋 Hi, I’m **Farida Shakikhanli** (@justshfarida)
+
+* 💻 **Backend / Software Developer** with a strong interest in building reliable and scalable systems
+* 🌱 Currently learning **Go (Golang)** and strengthening my skills in **C#, .NET Core, ASP.NET Core, JavaScript, Node.js, and Express.js**
+* 💼 Actively seeking an **internship** in **Software Development** or **Backend Development**
+* 🤝 Open to contributing to **open-source projects** and collaborating with **startups**
+* 📫 Reach me at: **[shakikhanlifarida@gmail.com](mailto:shakikhanlifarida@gmail.com)**
+* 😄 Pronouns: **She/Her**
