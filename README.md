@@ -5,4 +5,3 @@
 * 💼 Actively seeking an **internship** in **Software Development** or **Backend Development**
 * 🤝 Open to contributing to **open-source projects** and collaborating with **startups**
 * 📫 Reach me at: **[shakikhanlifarida@gmail.com](mailto:shakikhanlifarida@gmail.com)**
-* 😄 Pronouns: **She/Her**
